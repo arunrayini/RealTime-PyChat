@@ -1,8 +1,6 @@
-TEAM PROJECT
-1)Name: Arun Kumar Reddy Rayini
-  UFID: 10235028
-2)Name: Vinay Shakelli
-  UFID: 16462931                     
+
+Name: Arun Kumar Reddy Rayini
+
                                    PYTHON CHAT APPLICATION
 
 Through a command-line interface, two users can exchange files and send messages to each other using this Python chat application. A single connection is handled by each session of the application, which has the ability to send and receive text messages and transfer files.
